@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tasha Fernandez-Ross
 ============================================================================================================================================
 
-I have a BS in Computer Information Systems. I'm certified in cybersecurity and am proficient in HTML, CSS, SQL, Python, Flask, Javascript, Express, MongoDB and a variety of other frontend and backend technologies. I have many soft skills gained fromm life experiences and working in the medical field. I am a life long learner, therefore, I strive to continually expand my knowledge while also working towards providing innovative solutions for real world challenges. 
+I have a BS in Computer Information Systems. I'm certified in cybersecurity and am proficient in HTML, CSS, SQL, Python, Flask, Javascript, Express, MongoDB and a variety of other frontend and backend technologies. I have many soft skills gained from life experiences and working in the medical field. I am a life long learner, therefore, I strive to continually expand my knowledge while also working towards providing innovative solutions for real world challenges. 
 -------------------------------------------
 
 * 🌍  I'm based in Vancouver, WA
