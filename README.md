@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tasha Fernandez-Ross
 ============================================================================================================================================
 
-Recent Computer Information Systems Graduate
---------------------------------------------
-
-I am an aspiring Software Developer | Technology Enthusiast.
+I have a BS in Computer Information Systems. I'm certified in cybersecurity and am proficient in HTML, CSS, SQL, Python, Flask, Javascript, Express, MongoDB and a variety of other front and backed technologies. I have nanny soft skills gained fromm life experiences and working in the medical field. I am a life long learner, therefore, I strive to continually expand my knowledge while also working towards providing innovative solutions for real world challenges. 
+-------------------------------------------
 
 * 🌍  I'm based in Vancouver, WA
 * ✉️  You can contact me at [tfernandez25@gmail.com](mailto:tfernandez25@gmail.com)
